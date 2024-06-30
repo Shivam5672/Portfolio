@@ -1,0 +1,26 @@
+[
+    {
+      "startYear" : "2021",
+      "endYear" : "2025",
+      "course" : "Bachelors in CSE-AI & ML",
+      "university" : "Dr. APJ Abdul Kalam University, Lucknow",
+      "cgpaPercentage" : "85%"
+    },
+
+    {
+        "startYear" : "2019",
+        "endYear" : "2020",
+        "course" : "Secondary School",
+        "university" : "Gagan Public School, Aligarh",
+        "cgpaPercentage" : "92%"
+    },
+    
+    {
+        "startYear" : "2017",
+        "endYear" : "2018",
+        "course" : "Higher Secondary School",
+        "university" : "Gagan Public School, Aligarh",
+        "cgpaPercentage" : "92%"
+    }
+
+]  
